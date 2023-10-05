@@ -1,2 +1,6 @@
-console.log('Привет Кристина');
+function tidish() {
+  console.log('Тыдыщь');
+}
+
+
 
